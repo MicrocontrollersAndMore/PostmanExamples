@@ -1,1 +1,1 @@
-empty readme
+Instructions on using Postman to practice / test REST API functionality with Twitter and Flickr, I may do a full tutorial on this eventually.
